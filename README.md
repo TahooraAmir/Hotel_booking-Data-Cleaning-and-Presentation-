@@ -54,3 +54,4 @@ This project was completed as part of my Semester 3 final project under the HCLT
 - Power BI
 - Data Visualization
 - Data Analysis
+<img width="480" height="261" alt="image" src="https://github.com/user-attachments/assets/353e9a00-9301-4547-905e-9c020ceb516d" />
